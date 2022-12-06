@@ -35,3 +35,9 @@ body {
     display: flex;
     padding :10px 120px;
 }
+
+.footer {
+    display: flex;
+    justify-content: center;
+    background-color: #151515;
+}
