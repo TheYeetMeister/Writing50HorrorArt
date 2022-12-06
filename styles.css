@@ -1,0 +1,11 @@
+body {
+    display: flex;
+    flex-direction: column;
+    flex:1 1 auto;
+    padding: 0px;
+    margin: 0px;
+}
+
+.header {
+
+}
