@@ -8,7 +8,7 @@ body {
 
 .header {
     display: flex;
-    flex_direction: columns;
+    flex-direction: columns;
     justify-content: space-between;
 }
 
@@ -17,4 +17,9 @@ body {
     flex-direction: row;
     justify-content: space-between;
     padding: 16px 120px;
+}
+
+.author_name {
+    display: flex;
+    padding :10px 120px;
 }
