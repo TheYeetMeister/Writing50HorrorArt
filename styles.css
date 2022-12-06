@@ -70,3 +70,7 @@ body {
     gap: 90px;
     padding: 30px;
 }
+
+.artwork {
+    text-align: center;
+}
