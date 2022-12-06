@@ -8,7 +8,7 @@ body {
 
 .header {
     display: flex;
-    flex-direction: columns;
+    flex-direction: row;
     justify-content: space-between;
     background-color: #949494;
 }
@@ -41,4 +41,14 @@ body {
     justify-content: center;
     background-color: #151515;
     color: #ffffff;
+}
+
+.intro {
+    display: flex;
+    flex-direction: column;
+}
+
+.title {
+    display: flex;
+    justify-content: center;
 }
