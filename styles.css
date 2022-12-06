@@ -17,6 +17,7 @@ body {
     flex-direction: row;
     justify-content: space-between;
     padding: 16px 120px;
+    gap: 20px;
 }
 
 .author_name {
