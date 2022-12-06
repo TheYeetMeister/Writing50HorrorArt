@@ -9,4 +9,5 @@ body {
 .header {
     display: flex;
     flex_direction: columns;
+    justify-content: space-between;
 }
