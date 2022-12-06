@@ -100,3 +100,15 @@ body {
 .page_body>p {
     inline-size: 1200px;
 }
+
+.about_body {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+}
+
+.about_body>img {
+    height: 700px;
+    width: 700px;
+}
