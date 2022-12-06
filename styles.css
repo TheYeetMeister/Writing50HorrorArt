@@ -62,6 +62,10 @@ body {
     inline-size: 500px;
 }
 
+.body {
+    text-align: center;
+}
+
 .artworks {
     display: flex;
     flex-direction: row;
@@ -70,8 +74,4 @@ body {
     justify-content: center;
     gap: 90px;
     padding: 30px;
-}
-
-.artwork {
-    text-align: center;
 }
