@@ -10,6 +10,7 @@ body {
     display: flex;
     flex-direction: columns;
     justify-content: space-between;
+    background-color: #949494;
 }
 
 .header_links {
