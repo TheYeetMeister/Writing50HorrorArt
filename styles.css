@@ -77,3 +77,8 @@ body {
     gap: 90px;
     padding: 15px;
 }
+
+.artwork {
+    font-size: 30px;
+    font-family: "Times New Roman", Times, serif;
+}
