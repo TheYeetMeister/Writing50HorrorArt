@@ -47,6 +47,8 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
+    background-color: #151515;
+    color: #ffffff;
 }
 
 .title {
