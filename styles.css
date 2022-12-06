@@ -82,3 +82,14 @@ body {
     font-size: 30px;
     font-family: "Times New Roman", Times, serif;
 }
+
+.page_body {
+    text-align: center;
+    font-size: 21px;
+    padding: 15px;
+}
+
+.page_body>img {
+    height: 600px;
+    width: auto;
+}
