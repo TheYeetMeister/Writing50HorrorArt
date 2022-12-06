@@ -21,6 +21,11 @@ body {
     gap: 20px;
 }
 
+.header_links>a {
+    text-decoration: none;
+    color: #000000;
+}
+
 .author_name {
     display: flex;
     padding :10px 120px;
