@@ -24,6 +24,11 @@ body {
 .header_links>a {
     text-decoration: none;
     color: #000000;
+    transition: 0.5s;
+}
+
+.header_links>a:hover {
+    color: #ffffff;
 }
 
 .author_name {
