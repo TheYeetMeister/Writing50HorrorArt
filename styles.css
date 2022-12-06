@@ -11,3 +11,10 @@ body {
     flex_direction: columns;
     justify-content: space-between;
 }
+
+.header_links {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 16px 120px;
+}
